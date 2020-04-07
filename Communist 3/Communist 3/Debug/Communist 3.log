@@ -1,0 +1,4 @@
+﻿  Communist 3.cpp
+C:\Users\Stryker0\Desktop\Универ\C++\Semestr2\lab2\Communist 3\Communist 3\Communist 3.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Stryker0\Desktop\Универ\C++\Semestr2\lab2\Communist 3\Communist 3\Communist 3.cpp(89,14): warning C4101: maxI: неиспользованная локальная переменная
+  Communist 3.vcxproj -> C:\Users\Stryker0\Desktop\Универ\C++\Semestr2\lab2\Communist 3\Debug\Communist 3.exe
