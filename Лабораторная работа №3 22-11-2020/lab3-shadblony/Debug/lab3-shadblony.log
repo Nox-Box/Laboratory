@@ -1,0 +1,4 @@
+﻿  lab3-shadblony.cpp
+C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab3-shadblony\lab3-shadblony\MyDll.h(536,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab3-shadblony\lab3-shadblony\MyDll.h(880,94): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab3-shadblony.vcxproj -> C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab3-shadblony\Debug\lab3-shadblony.exe
