@@ -1,5 +1,0 @@
-﻿  lab8 figure.cpp
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab8\lab8 figure\lab8 figure\lab8 figure.cpp(72,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab8\lab8 figure\lab8 figure\lab8 figure.cpp(85,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab8\lab8 figure\lab8 figure\lab8 figure.cpp(100,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  lab8 figure.vcxproj -> C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab8\lab8 figure\Debug\lab8 figure.exe

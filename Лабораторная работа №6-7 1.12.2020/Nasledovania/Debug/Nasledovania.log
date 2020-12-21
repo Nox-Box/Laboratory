@@ -1,7 +1,0 @@
-﻿  Nasledovania.cpp
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab6\Nasledovania\Nasledovania\table.h(83,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab6\Nasledovania\Nasledovania\comptable.h(54,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab6\Nasledovania\Nasledovania\comptable.h(59,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab6\Nasledovania\Nasledovania\roundtable.h(45,30): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab6\Nasledovania\Nasledovania\roundtable.h(50,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-  Nasledovania.vcxproj -> C:\Users\Артём\Desktop\Универ\C++\Semestr 3\lab6\Nasledovania\Debug\Nasledovania.exe
