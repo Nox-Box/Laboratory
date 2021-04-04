@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <children>
+        <Canvas fx:id="canvas" height="600.0" width="800.0" />
+        <Button layoutX="76.0" layoutY="14.0" mnemonicParsing="false" onAction="#BCube" prefHeight="50.0" prefWidth="150.0" text="Квадрат" AnchorPane.leftAnchor="76.0" />
+        <Button layoutX="317.0" layoutY="14.0" mnemonicParsing="false" onAction="#BTriangle" prefHeight="50.0" prefWidth="150.0" text="Треугольник" />
+        <Button layoutX="558.0" layoutY="14.0" mnemonicParsing="false" onAction="#BCircle" prefHeight="50.0" prefWidth="150.0" text="Круг" AnchorPane.rightAnchor="92.0" />
+    </children>
+</AnchorPane>
